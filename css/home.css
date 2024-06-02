@@ -688,6 +688,11 @@ body {
     max-width: 332px;
   }
 }
+@media (max-width: 390px) {
+  .slider_wrapper .slider_box .slider_item {
+    max-width: 312px;
+  }
+}
 @media (max-width: 380px) {
   .slider_wrapper .slider_box .slider_item {
     max-width: 348px;
